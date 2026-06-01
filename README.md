@@ -40,8 +40,8 @@ La creación de tablas siguió un orden lógico de dependencias (de tablas padre
 ### 🗺️ Diagrama Entidad-Relación (DER)
 Para visualizar la estructura del esquema relacional, puedes consultar el diagrama del modelo:
 
-![Diagrama Entidad Relación](https://github.com/tu-usuario/tu-repositorio/raw/main/assets/der_fastfood.png) 
-*(Nota: Asegúrate de subir tu imagen en una carpeta llamada assets y nombrarla der_fastfood.png)*
+![Diagrama Entidad Relación](https://github.com/Rafael-Aguayo/Dynamic-Appetite-Desarrollo-de-Base-de-Datos-para-FastFood/blob/main/der_fastfood.png) 
+
 
 ---
 
